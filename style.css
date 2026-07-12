@@ -332,3 +332,41 @@ h2, h3 {
 .contact-btn:hover {
   background: #3049c9;       
 }
+.footer {
+    background-color: #0d1b4c;
+    color: #ffffff;
+    padding: 40px 60px;
+    width: 100%;
+    box-sizing: border-box;
+    justify-content:space-between;
+    
+}
+.main-icone {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    
+}
+.right-site{
+    display: flex;
+    gap: 12px;
+}
+.right-site a {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    color: #ffffff;
+    text-decoration: none;
+}
+.footer-text {
+    text-align: center;
+    font-size: 14px;
+
+}
+.footer-divider {
+   margin: 24px;
+}
