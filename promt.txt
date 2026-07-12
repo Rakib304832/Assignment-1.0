@@ -1,0 +1,4 @@
+
+
+A small Frequently Asked Questions accordion/dropdown list (e.g.: common questions about registration, refund policy, venue, tickets)
+A line at the bottom: "Still have questions?" with a "Contact Us" button or email link . Strictly follow my rules don't use java script.
