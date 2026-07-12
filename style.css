@@ -370,3 +370,15 @@ h2, h3 {
 .footer-divider {
    margin: 24px;
 }
+.footer-socials img {
+    width: 20px;
+    height: 20px;
+    filter: brightness(0) invert(1);
+   
+}
+.footer-socials {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+}
